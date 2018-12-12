@@ -16,7 +16,9 @@ date: 14/12/2018<br><img src="img/attribution-share-alike-creative-commons-licen
 * [Github personal:]{.smallcaps} 
   [https://github.com/crdguez](https://github.com/crdguez)
 
-* Esta presentación se encuentra disponible en:[https://crdguez.github.io/mis_presentaciones/cledu.html](https://crdguez.github.io/mis_presentaciones/cledu.html)
+* Esta presentación se encuentra disponible en:
+
+  [https://crdguez.github.io/mis_presentaciones/cledu.html](https://crdguez.github.io/mis_presentaciones/cledu.html)
 
 :::
 
@@ -34,9 +36,11 @@ date: 14/12/2018<br><img src="img/attribution-share-alike-creative-commons-licen
 
 :::::::::::::: {.columns}
 ::: {.column width="40%"}
-::: incremental
 
 * ¿Alguien **publica** la documentación que genera?
+
+::: incremental
+
 * ¿Cuánta gente busca apuntes de otros por internet?
 * ¿Cuántos saben qué es el **SW libre** y la cultura libre ?
 * ¿Cuánta gente usa habitualmente SW libre?
@@ -109,15 +113,18 @@ Me daré por satisfecho si al final de la presentación ...
 :::
 ::: {.column width="60%"}
 
-* Los intereses privados frente al bien común hacen que surjan en el s. XVIII los derechos de autor frente al dominio público. 
+* Los intereses privados frente al bien común hacen que surjan en el s. XVIII los **derechos de autor** frente al dominio público. 
 
 ::: incremental
 
-* Por otro lado aparecen ejemplos de democratizar o socializar el conocimiento:
+* Por otro lado, diferentes corrientes han intentado  democratizar o socializar el conocimiento:
 
-  - La Ilustración y el s. XVIII:  la enciclopedia de Diderot y D`Alembert
-  - Internet y la web 2.0
-  - El movimiento del Software Libre y su ética
+  - La **Ilustración** en el s. XVIII:  la enciclopedia de Diderot y D`Alembert
+
+  - Internet y el concepto de **Web 2.0**
+
+  - El movimiento del **Software Libre** y su ética
+
 
 :::
 
@@ -130,11 +137,11 @@ Me daré por satisfecho si al final de la presentación ...
 
 
 
-La defensa de los derechos de autor es muy respetable aunque, es obvio que la ocultación de información no favorece el aprovechamiento del conocimiento.  La pérdida de libertad de acceso al conocimiento "frena" su desarrollo
+La defensa de los derechos de autor es muy respetable aunque, es obvio que la ocultación de información no favorece el aprovechamiento del conocimiento.  La pérdida de libertad de acceso al conocimiento "frena" su desarrollo.
 
 El modelo científico se basa en la publicación del conocimiento.
 
-Internet ha sido la tecnología que ha facilitado el boom de lo libre. Es la fuente de difusión de conocimiento actual
+Internet ha sido la tecnología que ha facilitado el boom de lo libre. Es la principal fuente de difusión de conocimiento actual.
 
 :::
 
@@ -149,15 +156,15 @@ Internet ha sido la tecnología que ha facilitado el boom de lo libre. Es la fue
 
 :::
 ::: {.column width="60%"}
+- Fundado por Richard Stallman
 
 ::: incremental
-
-- Fundado por Richard Stallman, defiende el hecho de ganar en libertad al tener acceso "libre" al conocimiento (particularmente al código de los programas):
-  - 1ª Libertad:  Libertad de uso
-  - 2ª Libertad: Libertad de estudio
-  - 3ª Libertad: Libertad de distribución
-  - 4ª Libertad: Libertad de mejora
-- Obligaciones: Vienen determinadas por las licencias, y si son libres, respetan las libertades anteriores. Más o menos restrictivas, pero al menos exigen la atribución
+- defiende el hecho de ganar en libertad al tener acceso "libre" al conocimiento (particularmente al código de los programas):
+  - 1ª Libertad:  Libertad de **uso**
+  - 2ª Libertad: Libertad de **estudio**
+  - 3ª Libertad: Libertad de **distribución**
+  - 4ª Libertad: Libertad de **mejora**
+- Obligaciones: Vienen determinadas por las licencias. Más o menos restrictivas, pero al menos exigen la **atribución**
 - Extensión a otros ámbitos culturales: Música, arte, hardware, etc. $\to$ **Cultura Libre**
 
 :::
@@ -169,7 +176,7 @@ Internet ha sido la tecnología que ha facilitado el boom de lo libre. Es la fue
 
 ::: notes
 
-
+Las licencias, y si son libres, respetan las libertades
 
 :::
 
@@ -186,18 +193,18 @@ Internet ha sido la tecnología que ha facilitado el boom de lo libre. Es la fue
 
 :::
 ::: {.column width="60%"}
-* El software libre es gratis
+* El software libre es **gratis**
 
-* El software libre no me obliga a nada
+::: incremental
+* El software libre **no me obliga** a nada
 
-* El SL es de "frikis" que solo usan SL
+* El SL es de **"frikis"** que solo usan SL
 
-* Dificultades para "contribuir"
-
+* **Dificultades** para "contribuir"
   - Comunidades cerradas
   - "Aún no tengo todo bien documentado"
+::: 
 
-  ​	
 
 :::
 ::::::::::::::
@@ -215,14 +222,16 @@ La Cultura Libre es solo una opción, lo no libre es también muy respetable
 :::::::::::::: {.columns}
 ::: {.column width="70%"}
 
+
+* **Democratización** del modelo que sigue la comunidad científica
+
 ::: incremental
 
-* Democratización del modelo que sigue la comunidad científica
-* Tener que documentar nos ayuda a sintetizar, organizar y aprender en profundidad
-* Ayudamos a otras personas a que aprendan
-* Posibilitamos que otros mejoren lo que hemos hecho
-* Transmitimos a nuestro alumnado un modelo de enseñanza-aprendizaje
-* Generalmente "el conocimiento" se genera de manera más rápida 
+* Tener que documentar nos ayuda a sintetizar, organizar y **aprender en profundidad**
+* **Ayudamos** a otras personas a que aprendan
+* Posibilitamos que **otros mejoren** lo que hemos hecho
+* Transmitimos a nuestro alumnado **un modelo de enseñanza-aprendizaje**
+* Generalmente "el conocimiento" se **genera de manera más rápida** 
 
 :::
 
@@ -254,15 +263,18 @@ La Cultura Libre es solo una opción, lo no libre es también muy respetable
 :::
 ::: {.column width="60%"}
 
-* El antes del boom de la educativa libre (Lego Mindstorm, Bee-bot)
+El antes del boom de la robótica educativa libre: [Lego Mindstorms](https://www.lego.com/es-es/mindstorms), [Bee-bot](https://www.bee-bot.us/), ...
+
+::: incremental
 * Ventajas de la robótica no libre:
-  * Facilidad de uso
-  * Robustos
-  * Funcionan bien
+  * **Facilidad** de uso
+  * **Robustos**
+  * Funcionan **bien**
 * Inconvenientes:
-  * Caros
-  * Software limitado
-  * Creatividad limitada
+  * **Caros**
+  * Software **limitado**
+  * Creatividad **limitada**
+:::
 
 :::
 ::::::::::::::
@@ -287,13 +299,14 @@ La Cultura Libre es solo una opción, lo no libre es también muy respetable
 :::
 ::: {.column width="60%"}
 
-Pilares:
+Tecnologías que han facilitado su desarrollo:
 
-* Microcontrolador libre: Arduino
-* Software libre y una comunidad activa: Arduino IDE
-* Mecánica: Impresión 3D o máquinas de corte CNC (muchas de ellas libres)
-
-Consecuencias $\to$ Democratización de la robótica y multitud de modelos  derivados
+::: incremental
+* **Microcontrolador** libre: [Arduino](https://www.arduino.cc/)
+* **Software** libre y una comunidad activa: [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+* **Mecánica**: Impresión 3D o máquinas de corte CNC (muchas de ellas libres de [RepRap](https://reprap.org/wiki/RepRap))
+:::
+  **Consecuencia** $\to$ Democratización de la robótica y multitud de modelos  derivados
 
 
 
