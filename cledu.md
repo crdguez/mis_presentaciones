@@ -22,7 +22,7 @@ date: 14/12/2018<br><img src="img/attribution-share-alike-creative-commons-licen
 
 ::: {.column width="30%"}
 
-<img src="/home/hp/mi_git/mis_presentaciones/img/carlos.jpg" align="left" style="float:right" width="90%">
+<img src="img/carlos.jpg" align="left" style="float:right" width="90%">
 
 
 
