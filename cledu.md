@@ -32,6 +32,16 @@ date: 14/12/2018<br><img src="img/attribution-share-alike-creative-commons-licen
 
 ::::::::::::::
 
+
+
+::: notes
+
+* Trayectoria profesional docente: Ciclos formativos y ESO
+* Explicación de Github
+* Invitación a seguir por el móvil la presentación
+
+:::
+
 # Algunas cuestiones previas
 
 :::::::::::::: {.columns}
@@ -41,10 +51,10 @@ date: 14/12/2018<br><img src="img/attribution-share-alike-creative-commons-licen
 
 ::: incremental
 
-* ¿Cuánta gente busca apuntes de otros por internet?
+* ¿Cuánta gente busca apuntes de otros por **internet**?
 * ¿Cuántos saben qué es el **SW libre** y la cultura libre ?
-* ¿Cuánta gente usa habitualmente SW libre?
-* ¿Qué pasaría si los **científicos** no publicarán sus descubrimientos?
+* ¿Cuánta gente usa habitualmente **SW libre**?
+* ¿Qué pasaría si los **científicos** no publicaran sus descubrimientos?
 * ¿Y si los **docentes** no transmitieramos el conocimiento?
 
 :::
@@ -61,7 +71,10 @@ date: 14/12/2018<br><img src="img/attribution-share-alike-creative-commons-licen
 
 ::: notes
 
-?????
+* Preguntas para reflexionar
+* Cómo genera el conocimiento la comunidad científica
+* Los docentes como transmisores de conocimiento
+* Hacer la encuesta
 
 :::
 
@@ -92,7 +105,8 @@ Me daré por satisfecho si al final de la presentación ...
 
 ::: notes
 
-?????
+* Valorar si se pueden los resultados
+* Concluir con la importancia de compartir
 
 :::
 
@@ -137,11 +151,11 @@ Me daré por satisfecho si al final de la presentación ...
 
 
 
-La defensa de los derechos de autor es muy respetable aunque, es obvio que la ocultación de información no favorece el aprovechamiento del conocimiento.  La pérdida de libertad de acceso al conocimiento "frena" su desarrollo.
-
-El modelo científico se basa en la publicación del conocimiento.
-
-Internet ha sido la tecnología que ha facilitado el boom de lo libre. Es la principal fuente de difusión de conocimiento actual.
+* La defensa de los derechos de autor es muy respetable aunque, es obvio que la ocultación de información no favorece el aprovechamiento del conocimiento.  La pérdida de libertad de acceso al conocimiento "frena" su desarrollo.
+* Movimientos sociales que intentan democratizar el conocimiento
+  * La Ilustración, corriente social que considera la razón como forma de progreso frente al inmovilismo de la ignorancia. Surge la necesidad de "aprender" y dotar de conocimiento a la sociedad. La educación se convierte en un derecho fundamental 
+  * Ya en nuestro siglo, Internet se convierte en la herramienta de difusión de conocimiento. La tecnología Web 2.0 (2004) supone una revolución: Páginas dinámicas. Auge de foros, etc
+  * 1983 - El movimiento del Software Libre, cuya filosofía ha influido sobre el auge de la Cultura Libre
 
 :::
 
@@ -159,7 +173,7 @@ Internet ha sido la tecnología que ha facilitado el boom de lo libre. Es la pri
 - Fundado por Richard Stallman
 
 ::: incremental
-- defiende el hecho de ganar en libertad al tener acceso "libre" al conocimiento (particularmente al código de los programas):
+- Defiende el hecho de ganar en libertad al tener acceso "libre" al conocimiento (particularmente al código de los programas):
   - 1ª Libertad:  Libertad de **uso**
   - 2ª Libertad: Libertad de **estudio**
   - 3ª Libertad: Libertad de **distribución**
@@ -176,7 +190,7 @@ Internet ha sido la tecnología que ha facilitado el boom de lo libre. Es la pri
 
 ::: notes
 
-Las licencias, y si son libres, respetan las libertades
+* Las licencias, si son libres, respetan las libertades
 
 :::
 
@@ -213,7 +227,9 @@ Las licencias, y si son libres, respetan las libertades
 
 ::: notes
 
-La Cultura Libre es solo una opción, lo no libre es también muy respetable
+* La Cultura Libre es solo una opción, lo no libre es también muy respetable.
+* Hay ejemplos de SW libre de pago: El más fácil de entender sería Android, basado en GNU-Linux, en el caso de que fuera 100% libre.
+* Los foros de comunidades suelen tener normas para evitar que se genere conocimiento redundante. Muchas veces "da miedo" preguntar
 
 :::
 
@@ -249,6 +265,13 @@ La Cultura Libre es solo una opción, lo no libre es también muy respetable
 
 ::: notes
 
+* Hablar del proyecto RepRap:
+  * Como Stratasys (años 80) patenta la tecnología FDM (Modelado por deposición de material fundio) 
+  * Vence la patente y Bowyer en 2005 empieza a investigar y funda el proyecto libre RepRap
+  * 9 de febrero de 2008: RepRap 1.0 "Darwin"
+* Actualmente hay cientos de modelos y una industria que gira alrededor de este tipo de impresoras
+* Se ha "democratizado" el uso de impresoras 3D
+
 :::
 
 # Robótica educativa
@@ -281,7 +304,8 @@ El antes del boom de la robótica educativa libre: [Lego Mindstorms](https://www
 
 ::: notes
 
-
+* Experiencia personal: Trabajaba para orientación, ahora no. Necesidad de nuevas metodologías y actividades que resultaran atractivas.
+* Los robots comerciales no libres eran prácticamente inaccesibles (2013). Banco de robots del departamento de educación de Navarra (fuerte desembolso por parte del estado). No me los podía quedar. Empiezo a investigar, construyo Cartuino.
 
 :::
 
@@ -315,7 +339,7 @@ Tecnologías que han facilitado su desarrollo:
 
 ::: notes
 
-
+* Miniskybot de Juan González, posiblemente el primer, como lo denominó él mismo, printbot
 
 :::
 
@@ -408,4 +432,9 @@ Vale la pena aplicar la ética de la cultura libre, publicar libremente, desarro
 *George Bertrand Shaw*
 
 
+::: notes
+
+George Bertrand fue un escritor irlandés del s.XIX
+
+:::
 
